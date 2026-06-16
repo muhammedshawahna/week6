@@ -1,0 +1,6 @@
+This is a sample text file.
+
+Created on: 2026-06-16
+Author: Muhammed Shawahna
+
+Hello, world! This file was added as a sample to the repository.
